@@ -1,20 +1,20 @@
-##### Hi there 👋
+###Welcome to My GitHub Profile!
+Hello there! 👋 I'm Ibrahim Khan, a passionate developer, and lifelong learner. I love building exciting projects and exploring new technologies.
 
-###a passionate developer and lifelong learner. I love building exciting projects and exploring new technologies.
+Projects
+Check out some of the cool projects I've worked on. Feel free to explore and contribute!
 
-#####Projects
-###Check out some of the cool projects I've worked on. Feel free to explore and contribute!
+Caring Guide: Connected those in need of care with those who care.
 
-##Project Name 1: A brief description of the project and its key features.
+Nutrishify: A new and creative to display user Spotify stats.
 
-##Project Name 2: Another awesome project showcasing your skills and creativity.
+appTrack: An efficient way to track the job search.
 
-##Project Name 3: A project you are particularly proud of, maybe solving a real-world problem.
+Connect
+LinkedIn: https://www.linkedin.com/in/ibrahimkhan-utd/
+Personal Website: Ibrahimkhan.me
 
-#####Connect
-LinkedIn: Your LinkedIn Profile URL
-Personal Website: Your Website URL
 Contact
-Feel free to drop me an email at your.email@example.com. I'm open to collaborations, job opportunities, or just a friendly chat about technology and coding.
+Feel free to drop me an email at iboo11khan@gmail.com. I'm open to collaborations, job opportunities, or just a friendly chat about technology and coding.
 
 Thanks for stopping by! Happy coding! 😊
