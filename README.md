@@ -24,8 +24,7 @@ A **Computer Science Student** 🚀 from Dallas, Texas.
 - 🤔 My projects revolve around web automation, user experience, and developing exciting and useful applications. I love working on personal projects that pique my interest!
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [Iboo11khan@gmail.com](mailto:Iboo11khan@gmail.com).
-- 📝 See my <a href="IbrahimKhan.me"> Personal Portfolio <a>
--  to get more info.
+- 📝 See my <a href="https://ibrahimkhan.me"> Personal Portfolio <a> to get more info.
 
 
 **Languages and Tools:**  
