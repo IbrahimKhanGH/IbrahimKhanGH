@@ -48,8 +48,6 @@ A **Computer Science Student** 🚀 from Dallas, Texas.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=IbrahimKhanGh&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Ibrahim's GitHub Stats">
 ----
 
 Last Edited on: 08/05/2023
