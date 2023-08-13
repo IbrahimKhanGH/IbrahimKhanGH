@@ -20,7 +20,8 @@ A **Computer Science Student** 🚀 from Dallas, Texas.
 **About Me!**
 
 - 👨🏽‍💻 I’m a Computer Science student at the University of Texas at Dallas, set to graduate in May 2025.
-- 🌱 Currently, I'm diving deep into Python with a keen interest in Web Scraping and Data Visualization.
+🌱 Diving into Python with a focus on Web Scraping and Data Visualization.
+🎮 Fascinated by game mechanics, player experiences, and game development. My projects have delved into web automation, UX, and creating immersive applications. Recently explored Unity and am passionate about creating dynamic game environments and mechanics.
 - 🤔 My projects revolve around web automation, user experience, and developing exciting and useful applications. I love working on personal projects that pique my interest!
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [Iboo11khan@gmail.com](mailto:Iboo11khan@gmail.com).
