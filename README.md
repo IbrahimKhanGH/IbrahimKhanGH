@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/ibrahimkhan-utd/">
   <img align="left" alt="Ibrahim's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/lbraah/">
-  <img align="left" alt="Ibrahim's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <img src="https://komarev.com/ghpvc/?username=IbrahimKhanGH&color=blueviolet" align="left">
 
 
@@ -25,8 +22,6 @@ A **Computer Science Student** 🚀 from Dallas, Texas.
 - 🤔 My projects revolve around web automation, user experience, and developing exciting and useful applications. I love working on personal projects that pique my interest!
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [Iboo11khan@gmail.com](mailto:Iboo11khan@gmail.com).
-- 📝 See my <a href="https://ibrahimkhan.me"> Personal Portfolio <a> to get more info.
-
 
 **Languages and Tools:**  
 
