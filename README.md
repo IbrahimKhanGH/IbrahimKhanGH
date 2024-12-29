@@ -2,6 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IbrahimKhanGH)
 
-**I like to code sometimes.**
+**I like to code.**
 
 ---
