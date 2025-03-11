@@ -1,9 +1,12 @@
-# 👋 Hey, I'm Ibrahim!
+# Hi, I'm ibrahim ! 🤠
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IbrahimKhanGH)
 
-**I like to build, and coding is my favorite way to do it😁.**
+**I like to build, and coding is my favorite way to do it.😁**
 
-Currently Building Something New :)
+<img src="./assets/zoomlogi@bryce.jpg" width="400" alt="Me at Bryce Canyon">
+
+
+**currently building something new :)**
 
 ---
