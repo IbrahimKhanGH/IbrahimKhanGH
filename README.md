@@ -4,7 +4,7 @@
 
 **I like to build, and coding is my favorite way to do it.😁**
 
-<img src="./assets/zoomlogi@bryce.jpg" width="400" alt="Me at Bryce Canyon">
+<img src="./assets/zoomlogi@bryce.jpg" width="400" alt="Me @ Bryce Canyon">
 
 
 **currently building something new :)**
